@@ -20,7 +20,7 @@
   <text>2000 · 2D Game Development Framework</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>Pygame is a lightweight and versatile 2D game development framework built on top of Python. Originally released in 2000, it provides an easy-to-use set of modules for creating retro-style games, interactive experiences, and multimedia applications. With a strong community and a focus on simplicity, Pygame makes it easy for beginners and veterans alike to bring their pixel-perfect visions to life, blending coding and creativity in a true spirit of indie development.</text>
+  <text>A lightweight framework built on Python that made 2D game development accessible to hobbyists and indie developers starting from the early 2000s.</text>
   </text>
   </view>
   </theme>
