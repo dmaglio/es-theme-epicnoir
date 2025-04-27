@@ -10,17 +10,28 @@
   
   <view name="system">
   <text name="sys_line2" extra="true">
+<<<<<<< HEAD
   <text>pico8</text>
+=======
+  <text>Pico-8</text>
+>>>>>>> 79081b9 (added Tools and Emulators section)
   <fontSize>0.18</fontSize>
   <origin>0 0</origin>
   <pos>0.12 0.130</pos>
   <size>0 0</size>
   </text>
   <text name="shortdescription" extra="true">
+<<<<<<< HEAD
   <text>Video Games System</text>
   </text>
   <text name="longdescription" extra="true">
   <text>Video Games System</text>
+=======
+  <text>2014 · Fantasy 8-bit Virtual Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+  <text>PICO-8 is a virtual fantasy console that captures the spirit of classic 8-bit gaming. It empowers creators to design, code, and share charmingly simple games with a distinct retro aesthetic. Play a huge library of creative, community-made games or start building your own pixel-perfect adventures!</text>
+>>>>>>> 79081b9 (added Tools and Emulators section)
   </text>
   </view>
   </theme>
